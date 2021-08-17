@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#home {
+  position: absolute;
+  top: 17em;
+}
+
+#home h1 {
+  font-size: 5em;
+}
+
+#home p {
+  font-size: 2em;
+}
+
+#expert {
+  position: absolute;
+  top: 10em;
+}
+
+#expert h1 {
+  font-size: 3.5em;
+}
+
+#expert h4 {
+  font-size: 2.5em;
+}
+
+#expert p {
+  font-size: 1.3em;
+}
